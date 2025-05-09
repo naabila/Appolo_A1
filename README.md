@@ -34,7 +34,7 @@ Returns the square of a number after 1 second or rejects if the number is negati
 
 ---
 
-## 📝 Blog Posts
+## Blog Posts
 
 ### 1. What are some differences between interfaces and types in TypeScript?
 
@@ -82,7 +82,7 @@ getProperty(person, "name");
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -118,7 +118,7 @@ node solutions.js
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 📁 typescript-practice-blog
@@ -128,12 +128,3 @@ node solutions.js
 
 ---
 
-## 🛡️ Plagiarism Notice
-
-All solutions and blog content are original and written from scratch.
-
----
-
-## 📬 Contact
-
-For any questions, feel free to reach out.
